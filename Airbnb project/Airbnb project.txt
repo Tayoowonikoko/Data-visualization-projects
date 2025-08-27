@@ -1,0 +1,76 @@
+# 🏡 Airbnb Investment Analysis Dashboard (Tableau)
+
+## 🔗 Live Dashboard
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/tayo.owonikoko/viz/AIrbnbdashboard/Dashboard1)
+
+---
+
+## 📌 Project Overview
+This project uses **Airbnb listings data** to evaluate investment opportunities in the short-term rental market.  
+The Tableau dashboard highlights **pricing, revenue, and seasonal trends** to guide investors on **the best property types, locations, and times to maximize returns**.
+
+---
+
+## 📂 Dataset
+- **Source**: Public Airbnb dataset (listings, pricing, availability, and reviews)  
+- **Key Variables**:  
+  - Average Price (by postcode and number of bedrooms)  
+  - Revenue (by bedroom count)  
+  - Monthly Revenue (seasonality)  
+  - Number of Listings (supply)  
+
+---
+
+## 🎯 Objectives
+- Assess profitability across **different property sizes (bedrooms)**.  
+- Identify **location-based pricing trends** (postcode-level insights).  
+- Analyze **monthly revenue patterns** to capture seasonal opportunities.  
+- Provide **recommendations for investors** on property type and timing.  
+
+---
+
+## ✨ Key Insights
+📊 From the dashboard analysis:  
+
+- **Price vs. Bedrooms**:  
+  - Average **price increases with the number of bedrooms** (larger properties cost more per night).  
+  - However, demand drops for larger properties, making them less profitable overall.  
+
+- **Revenue by Bedrooms**:  
+  - **Single-bedroom properties generate the highest overall revenue** due to strong demand.  
+  - Revenue **decreases steadily** as the number of bedrooms increases.  
+
+- **Monthly Revenue Trends**:  
+  - **December is the most profitable month** of the year, reflecting peak holiday demand.  
+  - **Summer months (June–August)** also show strong performance.  
+  - **January has the lowest revenue**, indicating it is the off-season.  
+
+- **Listings Distribution**:  
+  - The majority of Airbnb properties are concentrated in the 1–2 bedroom segment.  
+  - Higher-bedroom properties are fewer in number but priced significantly higher, with lower occupancy.  
+
+---
+
+## 💡 Recommendations for Investors
+- **Property Type Focus**:  
+  Invest in **single-bedroom properties**, which combine affordability, high demand, and strong revenue potential.  
+
+- **Seasonality Strategy**:  
+  - Optimize pricing during **December and summer months** to capture peak demand.  
+  - Offer competitive pricing or promotions in **January** to maintain occupancy in the low season.  
+
+- **Diversification**:  
+  Consider a mix of **1–2 bedroom properties** for steady, year-round revenue while avoiding overexposure to larger, less profitable listings.  
+
+- **Location Targeting**:  
+  Use postcode-level insights to prioritize areas with consistently higher average prices and strong seasonal booking activity.  
+
+---
+
+## 🛠 Tools & Skills Demonstrated
+- **Tableau**: Interactive dashboards, slicers, line and bar charts, geospatial mapping.  
+- **Data Storytelling**: Translating Airbnb data into **investment-ready insights**.  
+- **Business Strategy**: Recommending property mix and pricing strategy to maximize profitability.  
+
+---
+
